@@ -1,21 +1,76 @@
 <h1 align="center">Hi 👋, I'm Yasiru Induwara</h1>
-<h3 align="center">Passionate about building responsive web and mobile applications.</h3>
+<h3 align="center">🚀 Passionate about building responsive web and mobile applications. 📱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasiru56&label=Profile%20views&color=0e75b6&style=flat" alt="yasiru56" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yasiru56&label=Profile%20views&color=0e75b6&style=flat" alt="yasiru56" /> </p>
 
-- 🌱 I’m currently learning **Currently expanding skills in modern tech stacks and frameworks.**
+---
 
-- 📫 How to reach me **yasiruinduwara56@gmail.com**
+- 🌱 **Currently Learning**: Expanding skills in modern tech stacks and frameworks.  
+- 📫 **Reach me at**: yasiruinduwara56@gmail.com  
+- ⚡ **Fun fact**: Always up for a new coding challenge!
 
-- ⚡ Fun fact **Bashir**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yasiru-induwara-942337337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yasiru-induwara-942337337" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/home.php" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/home.php" height="30" width="40" /></a>
-<a href="https://instagram.com/www.linkedin.com/in/yasiru-induwara-942337337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.linkedin.com/in/yasiru-induwara-942337337" height="30" width="40" /></a>
-<a href="/no" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="no" height="30" width="40" /></a>
+<h3 align="center">🌐 Connect with Me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/yasiru-induwara-942337337" target="blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/home.php" target="blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/yasiru-induwara-942337337" target="blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="center">🛠 Languages and Tools:</h3>
+<p align="center"> 
+  <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android"/> 
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> 
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/> 
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/> 
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/> 
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/> 
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> 
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> 
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> 
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> 
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> 
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop"/> 
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman"/> 
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> 
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> 
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native"/>
+</p>
+
+---
+
+<h3 align="center">⚙️ GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasiru56&show_icons=true&theme=radical" alt="Yasiru's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasiru56&theme=radical" alt="Yasiru's GitHub streak" />
+</p>
+
+<h3 align="center">👨‍💻 Top Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiru56&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<h3 align="center">🎉 Fun GIFs:</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+  <img src="https://media.giphy.com/media/1ykzcnNcX5F0fnQex5/giphy.gif" width="300" alt="Code Life" />
+</p>
+
+---
+
+Enjoy connecting and coding with me! 😄
+
